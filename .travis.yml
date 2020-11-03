@@ -1,0 +1,11 @@
+language: perl
+
+perl:
+  - "5.26"
+
+arch: ppc64le
+
+before_install: 
+  - ls
+  - tar --help
+  - tar --version
