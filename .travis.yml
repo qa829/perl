@@ -1,4 +1,5 @@
 language: perl
+group: dev
 
 perl:
   - "5.26"
